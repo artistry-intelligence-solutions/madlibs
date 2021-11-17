@@ -1,0 +1,11 @@
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\bin\Debug\Mad Libs App.exe.config
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\bin\Debug\Mad Libs App.exe
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\bin\Debug\Mad Libs App.pdb
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad Libs App.csprojAssemblyReference.cache
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad_Libs_App.MadLibs.resources
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad_Libs_App.Properties.Resources.resources
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad Libs App.csproj.GenerateResource.cache
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad Libs App.csproj.CoreCompileInputs.cache
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad Libs App.exe
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad Libs App.pdb
+D:\Aaron Matthews\Work\Tutorials\Mad Libs App\Mad Libs App\obj\Debug\Mad_Libs_App.Form2.resources
